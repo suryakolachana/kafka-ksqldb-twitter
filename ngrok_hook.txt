@@ -1,0 +1,1 @@
+curl -L http://api.telegram.org/bot841978303:AAGMYENV3OQm4YTJY5RrhsQO-EpBaw1TyuY/setWebHook?url=http://8ac662cb226c.ngrok.io
